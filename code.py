@@ -1,0 +1,1 @@
+print('krishna....! i love you pinkyyy')
